@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/03/2020, 05:22:07 PM
+    Author     : Usuario
+*/
+body{
+  background-color: black;
+  color: white;
+  background-color: #eae780;
+  background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%23ff7101' fill-opacity='0.46'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  font-size: 15px;
+}
+h1{
+  text-align: center;
+  color: red;
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+}
+
+h3{
+  color: black;
+  font-size: 30px;
+  background: rgb(235, 87, 29);
+  margin-left: 30%;
+  margin-right: 30%;
+  
+}
+
+.transformation{
+  text-transform: lowercase;
+}
+
+.rounded{
+    border-width: 5px;
+    border-color: Black;
+}
+
+#boton{
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #e23213;
+    border-radius: 12px;
+    border: 2px solid #000000;
+  }
+ 
+  #boton1{
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color: #fffefb;
+    border-radius: 12px;
+    border: 2px solid black;
+  }
+  
+  #boton2{
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1c1c1d;
+    border-radius: 12px;
+    border: 2px solid white;
+  }
+
+  #boton3{
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #2632EF;
+    border-radius: 12px;
+    border: 2px solid black;
+  }
+  
+  #boton4{
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #2632EF;
+    border-radius: 12px;
+    border: 2px solid black;
+  }
